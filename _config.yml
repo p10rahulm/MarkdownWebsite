@@ -1,0 +1,10 @@
+title: My First Website
+email: rahul.maddy@gmail.com
+description: This is the best website ever!!!
+twitter_username: imrahulmaddy
+github_username: p10rahulm
+
+# Some Designs
+theme: minima
+plugins:
+  - jekyll-feed
